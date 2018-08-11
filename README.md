@@ -52,7 +52,7 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 ## Resources
 * Referred to:\
-http://tiny.cc/FeedReaderTestingProject
+http://tiny.cc/FeedReaderTestingProject \
 https://stackoverflow.com/questions/11750876/separation-of-context-and-trigger-in-jasmine
 
 ## Contributing
