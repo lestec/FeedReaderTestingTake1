@@ -121,6 +121,5 @@ $(function() {
         it('feed changes', function() {
             expect(feedOne).not.toBe(feedTwo);
         });
-    });
     });    
 }());
