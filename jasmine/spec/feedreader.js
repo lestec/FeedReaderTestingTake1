@@ -75,7 +75,7 @@ $(function() {
                 $('a.menu-icon-link').trigger('click'); 
                 expect($('body').hasClass('menu-hidden')).toBe(true);
         });
-
+    });
 
     /* Test suite named "Initial Entries" */
     describe('Initial Entries', function() {
